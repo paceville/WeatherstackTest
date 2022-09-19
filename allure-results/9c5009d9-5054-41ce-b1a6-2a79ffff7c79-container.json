@@ -1,0 +1,1 @@
+{"uuid":"9c5009d9-5054-41ce-b1a6-2a79ffff7c79","name":"restAssured.WeatherTest.setUp","children":["3362f3e0-1066-4ace-9846-25cf26b4422a"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1663542997116,"stop":1663542997903}],"afters":[],"start":1663542997116,"stop":1663542997903}
